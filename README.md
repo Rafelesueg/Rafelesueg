@@ -11,7 +11,7 @@ My determination and unwavering commitment keep me up-to-date with the latest tr
 ## 💼 Skills
 
 - **Programming Languages:** C, Java, Python, JavaScript, Lua, SQL
-- **Technologies and Frameworks:** React, Spring
+- **Technologies and Frameworks:** Spring, React
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ## 📊 GitHub Stats
